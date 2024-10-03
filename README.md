@@ -1,3 +1,5 @@
+# Destacar que, cuando se use el Input, se debe crear una regla en el archivo --tsconfig.json--. Esta regla es "strictPropertyInitialization", y se debe poner a false
+
 # Prueba
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
