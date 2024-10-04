@@ -10,6 +10,6 @@ import { Joke } from '../joke';
 })
 export class JokeItemComponent {
 
-  @Input('joke') joke: Joke;
+  @Input('joke') joke!: Joke; //Ver el archivo tsconfig.json para ver la regla que permite no inicializar las variables
 
 }
