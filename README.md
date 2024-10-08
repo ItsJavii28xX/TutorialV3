@@ -1,4 +1,4 @@
-# Destacar que, cuando se use el Input, se debe crear una regla en el archivo --tsconfig.json--. Esta regla es "strictPropertyInitialization", y se debe poner a false
+# Destacar que, cuando se use el Input, se puede crear una regla en el archivo --tsconfig.json--. Esta regla es "strictPropertyInitialization", y se debe poner a false. Esto es para no tener que inicializar las variables creadas en los componentes
 
 # Prueba
 
